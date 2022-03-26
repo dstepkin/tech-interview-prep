@@ -76,7 +76,7 @@ More to that try follow the algorithm below:
 1. Read the problem (including constraints)
 2. Understand what exactly need to be done (pen and paper could help)
 3. Define several examples (possibly edge cases) of input data and write down the output
-4. Write down an algorithm (if you can not - use tips or YouTube explanations)
+4. Write down an algorithm (if you can not do it on your own - use tips or YouTube explanations)
 5. Implement it (the first step when you actually need a computer).
 
 Feel free to use IDE on Step 5 if you are new to your programming language. But if you want an interview-like experience
@@ -88,3 +88,32 @@ also avoid printing anything to **stdout** for debugging purposes.
 
 You should only **submit a solution you think will work and will be accepted**.
 
+### Building the foundation
+
+It is suggested to start with LeetCode Cards since it has both theory articles and problems to solve.
+
+Ideal situation is to solve the following cards in order. Since some of them have prerequisites.
+
+1. [Arrays 101](https://leetcode.com/explore/learn/card/fun-with-arrays/) - a beginner-friendly card to warm up and to
+   get familiar with LeetCode
+2. [Array and String](https://leetcode.com/explore/learn/card/array-and-string/) - pay attention to 2-pointer technique
+   since it is used not only in array-related problems
+3. [Hash Table](https://leetcode.com/explore/learn/card/hash-table/) - one of the most popular concept in interview
+   questions
+4. [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/) - quite simple concept which helps to
+   learn graph problems and recursion later
+5. [Queue and Stack](https://leetcode.com/explore/learn/card/queue-stack/) - another extremely important data structure
+   which need to be learned
+6. [Recursion I](https://leetcode.com/explore/learn/card/recursion-i/) - introduction to a concept of recursion and
+   memoization
+7. [Recursion II](https://leetcode.com/explore/learn/card/recursion-ii/) - more advanced concepts like backtracking
+
+### Honing your skills
+
+Once you get the basics you will be able to solve about 20-35% of all the problems. More to that, most likely you will
+be able to pass an interview to 3rd or 2nd tier companies.
+
+If that is not enough for you, then let's move on. Below you can find some more links and topics worth learning.
+
+- [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) - even if you are not planning to become a
+  competitive programmer this book is quite helpful to learn some theory and approaches used to solve problems
