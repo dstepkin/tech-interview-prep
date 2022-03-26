@@ -30,8 +30,9 @@ principles we do not need to spend more than 10-15 minutes per problem. If you d
 try - no reason to spend any more time on this. Just try to find any hint or tip which will help you to move forward.
 
 If even that is not enough - feel free to look for a solution and explanation on YouTube. Try to get an idea on how to
-solve the problem or even the whole algorithm. But try to avoid copy-pasting a solution. The main goal is to **
-understand** the solution and implement it yourself. Even if you are not the one who invented the algorithm.
+solve the problem or even the whole algorithm. But try to avoid copy-pasting a solution.
+The main goal is to **understand** the solution and implement it yourself.
+Even if you are not the one who invented the algorithm.
 
 ### Helpful YouTube channels
 
@@ -108,12 +109,83 @@ Ideal situation is to solve the following cards in order. Since some of them hav
    memoization
 7. [Recursion II](https://leetcode.com/explore/learn/card/recursion-ii/) - more advanced concepts like backtracking
 
-### Honing your skills
+### Deepening your knowledge
 
 Once you get the basics you will be able to solve about 20-35% of all the problems. More to that, most likely you will
 be able to pass an interview to 3rd or 2nd tier companies.
 
-If that is not enough for you, then let's move on. Below you can find some more links and topics worth learning.
+If that is not enough for you, then let's move on.
+The key point here is that you need to practice and there is a separate chapter about that topic later.
+But in this chapter you can find few more links and topics worth knowing about.
 
 - [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) - even if you are not planning to become a
-  competitive programmer this book is quite helpful to learn some theory and approaches used to solve problems
+  competitive programmer this book is quite helpful to learn some theory and approaches used to solve problems.
+- [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) - somewhat short article
+  about helpful concepts to solve coding problems.
+- **Dynamic Programming** - is a popular method to solve specific kind of problems. There is a beginner-friendly
+  [5-hour video](https://www.youtube.com/watch?v=oBt53YbR9Kk) or a bit more advanced
+  [videos from Errichto](https://www.youtube.com/watch?v=YBSt1jYwVfU&list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo).
+- **Binary Search** - fast way to find solution if input satisfies specific criteria. Another topic worth learning.
+- **Bit manipulation** - it is quite helpful to know how integers are stored in memory and how this could be utilized for solving real problems extremely fast.
+- **Other data structures** - there are a lot of different data structures out there,
+  and the vast majority of these problems could be solved using data structures you already know.
+  But there are a few more worth taking a look at: *Priority Queue*, *Linked List*, *Binary Search Tree*,
+  *Trie (or Prefix Tree)*, *Disjoint set (or Union-Find)*
+- **Graph algorithms** - is a whole world. Once you become familiar with most frequent graph algorithms like
+  *DFS (or Depth-First Search)* and *BFS (or Breadth-First Search)* and different graph representations like
+  adjacency list and matrix you will be ok. But here are a few more worth learning:
+  *Topological Sort*, *Dijkstra's algorithm* and a concept of *Strongly Connected Components*
+- **Sorting algorithms** - to know the difference in complexity and applicability between different algorithms 
+  is helpful. Just a few examples of such algorithms: *Bubble sort*, *Merge sort*, *Quicksort*, *Counting sort*
+
+### Honing your skills
+
+Alright, at this point you should at least know all the concepts in foundation section and maybe some more.
+But ideally got your hands dirty and solve some amount of problems.
+
+The only way to prepare for solving a problem during interview is to solve a lot of problems beforehand.
+Solving problems is a skill and in order to acquire it you need to practice.
+The smarter you practice - the faster you get the desired result.
+
+The core idea is that there are limited amount of concepts you need to know in order to solve any interview problem.
+And fortunately enough there are people who created a list of problems to illustrate (and teach) these concept.
+
+And before getting to actual lists I suggest you to create a spreadsheet with your own notes and progress.
+An example of such spreadsheet (along with the first list) is shown in
+[this video](https://www.youtube.com/watch?v=SVvr3ZjtjI8). And the link to
+[LeetCode list](https://leetcode.com/list/xi4ci4ig/) and to the original
+[Currated list of 75 questions from Blind](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU).
+
+Different people called the same things differently. And another popular list is called
+[LeetCode Patterns](https://seanprashad.com/leetcode-patterns/).
+
+Of course each list is opinionated one. But the more problems you solve - the better. So here is
+[Top 100 Liked LeetCode Questions](https://leetcode.com/list/79h8rn6/).
+
+And the last but not least, 3 more lists by LeetCode itself with top interview problems grouped by difficulty:
+- [Top Interview Questions - Easy Collection](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
+- [Top Interview Questions - Medium Collection](https://leetcode.com/explore/interview/card/top-interview-questions-medium/)
+- [Top Interview Questions - Hard Collection](https://leetcode.com/explore/interview/card/top-interview-questions-hard/)
+
+### Putting the volume in
+
+At this point you should be well-prepared overall.
+Solving problems when you know you could get help from your notes or google something is nice.
+But solving the same problems under the pressure when clock is ticking is a little different.
+
+TBD about Clement's vids, contests (incl. kickstart etc), other problems
+
+### Keeping in shape
+
+TBD about daily
+
+## Finish strong
+
+If you followed everything you read above - you are definitely prepared to any kind of technical / coding interview.
+But please do not forget that no matter how good you are prepared it will only
+improve you chances but will not give any guarantees.
+
+You should accept the fact that there are some amount of luck involved in interview process.
+But that is ok. That is the way it works. So keep going!
+
+**Never give up** and good luck in getting offer you desire! (;
