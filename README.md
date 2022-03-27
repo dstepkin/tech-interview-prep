@@ -154,7 +154,7 @@ And before getting to actual lists I suggest you to create a spreadsheet with yo
 An example of such spreadsheet (along with the first list) is shown in
 [this video](https://www.youtube.com/watch?v=SVvr3ZjtjI8). And the link to
 [LeetCode list](https://leetcode.com/list/xi4ci4ig/) and to the original
-[Currated list of 75 questions from Blind](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU).
+[Curated list of 75 questions from Blind](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU).
 
 Different people called the same things differently. And another popular list is called
 [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/).
@@ -173,13 +173,83 @@ At this point you should be well-prepared overall.
 Solving problems when you know you could get help from your notes or google something is nice.
 But solving the same problems under the pressure when clock is ticking is a little different.
 
-TBD about Clement's vids, contests (incl. kickstart etc), other problems
+At this point it will be nice to become more familiar with how interview to a top tier company looks like.
+Depending on that you will be able to fine-tune your preparation process yourself.
+
+There is a [YouTube channel](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
+created by ex-Googler Clément Mihailescu where you could find some examples of such interviews.
+Even though on his channel there are some interviews with "normal" applicants I decided to put a few links
+to mock-interviews with great competitive programmers:
+[Errichto's interview](https://youtu.be/EuPSibuIKIg),
+[First William Lin's interview](https://youtu.be/qz9tKlF431k),
+[Second William Lin's interview](https://youtu.be/-tNMxwWSN_M).
+
+Since you will not be able to execute your code during an interview process you should pay additional attention to
+stuff like *off-by-one error* or *integer overflow*. And please re-read the section about the correct mindset.
+Hopefully you will be able to find something new after watching videos above.
+
+Another useful thing you need to practice is to solve problems in limited time frame.
+Programming competitions (contests) could help here.
+I personally prefer LeetCode ones over the rest because of two things:
+you do not need to bother with stdin / stdout, problems are easier and more interview-like.
+Here is a short list of competitions I personally tried:
+
+ - [LeetCode weekly and biweekly contests](https://leetcode.com/contest/) - in addition
+  to what was said above, these contests are running regularly at the same time
+ - [Google code jam](https://codingcompetitions.withgoogle.com/codejam) - runs once per year,
+ tough problems, ability to get partial score for partially correct solution, good learning value in past events
+ - [Google kick start](https://codingcompetitions.withgoogle.com/kickstart) - almost all from *code jam*
+ is applicable here with a few differences. Runs about 10 times per year. The actual problems are easier than
+ *code jam* problems, but harder than *LeetCode* ones.
+ - [Codeforces contests](https://codeforces.com/contests) - different divisions (based on problem difficulty),
+ you need to pay attention to calendar to be sure that you will not miss a competition.
+
+Even though you could "virtually participate" into archived (past) contest,
+I strongly recommend participating at least a few times live to get an idea of how it feels like.
+
+And the last topic to cover here is actually putting the volume into solving problems.
+Once you learn all the necessary concepts it is time to practice them.
+
+One way to get volume and confidence is to sort problems by difficulty and acceptance rate
+and to start solving these problems one-by-one from easiest with the highest acceptance rate to more hard ones.
+
+Another great way to put the volume is to know exactly which company you want to join,
+find the questions they are asking during interview.
+And just practice these questions in order of frequency.
+
+And the final strategy is to review your spreadsheet, find the weakest areas.
+And simply work on your weaknesses by solving problems related to that topics.
+
+But these recommendations are not set in stone, so feel free to select the strategy which fits best for your needs.
 
 ### Keeping in shape
 
-TBD about daily
+Even if you did not put that much volume you should start attending interviews.
+Simply select companies you could easily decline offers from and start your interviewing journey.
 
-## Finish strong
+Do not wait for time "when you will be ready enough" - most likely it will not happen in foreseeable future.
+And more to that interviews are not only about coding and algorithms.
+Stuff like communication skills are also needed in order to get the offer.
+But that is not a subject of the current document.
+
+The main point is that if you are not working on your coding and algo skills
+then these skills are slowly but surely degrading.
+In order to at least slow down the degradation process you need to constantly practice your skills.
+
+The best way from my personal perspective is to attend [LeetCode Daily Challenge](https://leetcode.com/discuss/general-discussion/655704/).
+All you need to do is to solve a single problem in a 24-hour timeframe.
+Problems are selected random (or close to random) and differs in topics and difficulty.
+
+More to that for some people even the fact that you will get a badge if you solve all the problems in a month
+is a great motivation itself.
+But the benefit of solving daily challenges is that you are practicing your coding / algo skills every single day.
+And consistency is key here.
+
+You could even start doing daily challenges before you learned mandatory stuff like *DFS*, *BFS*, *stack* etc.
+But this way you could get stuck with daily problem, and it could be quite demotivating.
+So keep that in mind.
+
+## Finishing strong
 
 If you followed everything you read above - you are definitely prepared to any kind of technical / coding interview.
 But please do not forget that no matter how good you are prepared it will only
